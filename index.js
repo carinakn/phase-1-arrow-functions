@@ -12,6 +12,3 @@ const square = (x) => {
 const add = (a, b) => {
     return a + b;
 };
-
-// Exporting the functions for testing
-module.exports = { divide, square, add };
